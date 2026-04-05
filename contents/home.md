@@ -1,17 +1,40 @@
+# 冯凌峰 (Feng Lingfeng)
 
+#### 联系方式
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+- 手机：19851407361
+- 邮箱：lingfengfeng@ruc.edu.cn
+- 地址：北京市海淀区
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 简介
 
-#### Contact
+现为中国人民大学计算机科学与技术博士生（2025年9月入学，导师：覃飙 教授）。研究方向包括具身智能、多智能体系统与知识图谱剪枝。曾在西安电子科技大学攻读硕士（导师：田聪，长江学者），并于河海大学获得计算机科学与技术学士学位。参与多项科研与工程项目，主要负责对抗样本生成、神经网络验证与软件开发工作，具备嵌入式/ROS与Python开发经验。
 
-Email: senli[at]fas.harvard.edu
+#### 教育经历
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+- 中国人民大学 — 计算机科学与技术，博士（在读） 2025.09 - 至今
+- 西安电子科技大学 — 计算机科学与技术，硕士 2022.09 - 2025.06
+- 河海大学 — 计算机科学与技术，本科 2018.09 - 2022.06
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+#### 主要研究方向
+
+- 具身智能（Embodied Intelligence）
+- 多智能体系统（Multi-Agent Systems）
+- 知识图谱剪枝与多模态知识抽取
+
+#### 项目与实践
+
+- 对抗样本生成与神经网络验证软件开发（中航五院502所，北京）：负责核心代码开发（Python）、对抗攻击功能接口与QT前端，实现与ROS平台的集成。
+- 慧眼行动军事科研项目（中国兵器工业205所，西安）：承担软件开发与项目申报，成果应用于军事侦察车系统。
+- 军事基础科研项目：参与项目方案设计、申报与软件实现，面向装甲车与无人机的模型抗干扰技术研究。
+
+#### 技能与证书
+
+- 编程：Python（含科学计算生态）、ROS、QT
+- 英语：CET-4, CET-6
+- 普通话：二级甲等
+
+#### 兴趣
+
+足球、围棋
 

@@ -1,13 +1,7 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 新生奖学金（硕士/本科阶段）
+- 学业奖学金（硕士/本科阶段）
+- 在校期间担任班级团支书，校ACM队员（2018-2020）
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+（更多奖项信息以简历与项目记录为准）
 
